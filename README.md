@@ -9,49 +9,50 @@ This reports is includes the lab identity no. of computers devices and many lab 
 Lab name
 # INPUT
  Number of computers
- Number of network devices
- Number of security tools
- Cost per computer
- Cost per network device
- Annual security software cost
+<br> Number of network devices
+<br> Number of security tools
+<br> Cost per computer
+<br> Cost per network device
+<br> Annual security software cost
 # PROCESS
 Computer Cost = Number of Computers × Cost per Computer
-Network Cost = Number of Network Devices × Cost per Device
-Total Lab Investment = Computer Cost + Network Cost + Software Cost
-#OUTPUT
+<br>Network Cost = Number of Network Devices × Cost per Device
+<br>Total Lab Investment = Computer Cost + Network Cost + Software Cost
+# OUTPUT
 Generate a formatted report:
-========================================
-CYBERSECURITY LAB REPORT
-========================================
-Lab Name              : [lab name]
-Computers             : [number]
-Network Devices       : [number]
-Security Tools        : [number]
-Computer Cost         : [calculated value]
-Network Device Cost   : [calculated value]
-Software Cost         : [entered value]
-----------------------------------------
-Total Lab Investment  : [calculated value]
-----------------------------------------
-========================================
+<br>========================================
+<br>CYBERSECURITY LAB REPORT
+<br>========================================
+<br>Lab Name              : [lab name]
+<br>Computers             : [number]
+<br>Network Devices       : [number]
+<br>Security Tools        : [number]
+<br>Computer Cost         : [calculated value]
+<br>Network Device Cost   : [calculated value]
+<br>Software Cost         : [entered value]
+<br>----------------------------------------
+<br>Total Lab Investment  : [calculated value]
+<br>----------------------------------------
+<br>========================================
 # HOW TO COMPILE
 1. Make sure GCC (or any C compiler) is installed on your system.
-2. Open a terminal in the project folder.
-3. Compile the program:
-     cyber_lab.exe
-#SAMPLE OUTPUT
-========================================
-CYBERSECURITY LAB REPORT
-========================================
-Lab Name : Cyber Security Lab
+<br>2. Open a terminal in the project folder.
+<br>3. Compile the program:
+    <br> cyber_lab.exe
 
-Computers : 30
-Network Devices : 8
-Security Tools : 12
-Computer Cost : 3000000
-Network Device Cost : 400000
-Software Cost : 500000
-----------------------------------------
-Total Lab Investment : 3900000
-----------------------------------------
-========================================  
+# SAMPLE OUTPUT
+
+========================================
+<br>CYBERSECURITY LAB REPORT
+<br>========================================
+<br>Lab Name : Cyber Security Lab
+<br>Computers : 30
+<br>Network Devices : 8
+<br>Security Tools : 12
+<br>Computer Cost : 3000000
+<br>Network Device Cost : 400000
+<br>Software Cost : 500000
+<br>----------------------------------------
+<br>Total Lab Investment : 3900000
+<br>----------------------------------------
+<br>========================================  
