@@ -1,8 +1,8 @@
 # cybersecurity-lab-management
 
-#NAME
+# NAME
 Syed Muhammad MuneerUddin
-#ID
+# ID
 26K-2004
 # DESCRIPTION
 This program collects and reports on basic cybersecurity lab information, including the lab name, number of computers, network devices, and security tools, along with associated costs and total investment.
