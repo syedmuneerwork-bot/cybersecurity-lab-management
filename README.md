@@ -5,8 +5,7 @@ Syed Muhammad MuneerUddin
 #ID
 26K-2004
 # DESCRIPTION
-This reports is includes the lab identity no. of computers devices and many lab essentials in lab 
-Lab name
+This program collects and reports on basic cybersecurity lab information, including the lab name, number of computers, network devices, and security tools, along with associated costs and total investment.
 # INPUT
  Number of computers
 <br> Number of network devices
